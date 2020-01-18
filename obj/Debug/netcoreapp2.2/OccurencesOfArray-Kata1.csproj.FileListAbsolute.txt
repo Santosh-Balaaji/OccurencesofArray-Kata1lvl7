@@ -1,0 +1,14 @@
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.deps.json
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.runtimeconfig.json
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.runtimeconfig.dev.json
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.dll
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\bin\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.pdb
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.csprojAssemblyReference.cache
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.csproj.CoreCompileInputs.cache
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.AssemblyInfoInputs.cache
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.AssemblyInfo.cs
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.dll
+C:\Users\svsan\source\repos\OccurencesOfArray-Kata1\OccurencesOfArray-Kata1\obj\Debug\netcoreapp2.2\OccurencesOfArray-Kata1.pdb
